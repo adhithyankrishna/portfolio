@@ -77,7 +77,7 @@ export const info = {
     bio: "Hello, my name is Adithyan M, and I am currently pursuing my studies at DR NGP Institute of Technology in Coimbatore. I am passionate about programming and fascinated by new technologies. From a young age, I have been captivated by the world of computers and the endless possibilities they offer. As a programmer, I enjoy exploring innovative solutions and tackling complex challenges. Whether it's designing efficient algorithms, developing web applications, or diving into artificial intelligence, I thrive on the thrill of learning and applying new concepts. My dedication to honing my programming skills has allowed me to stay up-to-date with the latest advancements in the field. I am eager to contribute to the ever-evolving tech industry and make a positive impact through my work. Through my portfolio, I aim to showcase my projects and highlight my expertise in various programming languages and technologies. I am excited to embark on new ventures, collaborate with fellow enthusiasts, and create meaningful solutions that shape the future of technology",
     skills:
         {
-            proficientWith: ['java', 'flutter', 'pyhton', 'github', 'bootstrap', 'c','figma'],
+            proficientWith: ['java', 'flutter', 'python', 'github', 'bootstrap', 'c','figma'],
             exposedTo: ['Android Studio','Meachine Learning','react js','Firebase']
         }
     ,
@@ -117,11 +117,7 @@ export const info = {
             source: "https://github.com/adhithyankrishna/Thotti.2.0",
             image: mock3
         },
-        {
-            title: "Summarizer",
-            source: "https://github.com/surprisedPikachu007/feed-summarizer",
-            image: mock4
-        },
+       
        
     ]
 }
